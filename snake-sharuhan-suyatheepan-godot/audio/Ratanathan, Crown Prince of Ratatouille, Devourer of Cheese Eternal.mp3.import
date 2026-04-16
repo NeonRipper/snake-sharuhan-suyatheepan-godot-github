@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bc2ox1lmr0njs"
+path="res://.godot/imported/Ratanathan, Crown Prince of Ratatouille, Devourer of Cheese Eternal.mp3-90300e9f5ffde5c6ad8e422d14a6d24a.mp3str"
+
+[deps]
+
+source_file="res://audio/Ratanathan, Crown Prince of Ratatouille, Devourer of Cheese Eternal.mp3"
+dest_files=["res://.godot/imported/Ratanathan, Crown Prince of Ratatouille, Devourer of Cheese Eternal.mp3-90300e9f5ffde5c6ad8e422d14a6d24a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
