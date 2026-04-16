@@ -1,14 +1,23 @@
 Snake Game:
+
 Godot:4.5
+
 How to run:
 Open the project in godot 4, open the main scene and hit run.
 Controls:
+
 W = move up
+
 S = move down
+
 D = move left
+
 A = move right
+
 Shift = sprint
+
 space = start
+
 P = pause
 
 Known issues: collisions between the snake's body and the obstacle aren't working.
